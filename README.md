@@ -125,6 +125,7 @@ This report documents the steps I took to deploy an Apache web server, configure
 ```apache
 NameVirtualHost *:80
 ```
-
-
+## **Video Demo** 
+ 
+[halaassi.webm](https://github.com/user-attachments/assets/8282178f-35a0-4781-9c2f-c8ec8f4d7dab)
 
