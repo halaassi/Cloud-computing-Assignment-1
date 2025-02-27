@@ -1,7 +1,7 @@
 # Apache Web Server Deployment  
 **By: Hala Assi**  
 
-This report documents the steps I took to deploy an Apache web server, configure virtual hosts, and troubleshoot network and DNS issues. Below is a detailed breakdown of the commands used, configurations applied, and their purposes.
+This report documents the steps I took to deploy an Apache web server, configure virtual hosts, and troubleshoot network  Below is a detailed breakdown of the commands used, configurations applied, and their purposes.
 
 ---
 
